@@ -1,7 +1,7 @@
 pipeline:
   name: sample-react-app
   identifier: samplereactapp
-  projectIdentifier: DhrubaCI
+  projectIdentifier: default_project
   orgIdentifier: default
   tags: {}
   stages:
