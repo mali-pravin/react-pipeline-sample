@@ -1,7 +1,7 @@
 pipeline:
   name: sample-react-app
   identifier: samplereactapp
-  projectIdentifier: pune-meetup
+  projectIdentifier: punemeetup
   orgIdentifier: default
   tags: {}
   stages:
